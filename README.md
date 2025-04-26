@@ -1,5 +1,5 @@
 # Convert2RGB565
-Covert PNG/JPG to RGB565 for IPS/OLED Arduino/Pi Display
+Convert PNG/JPG to RGB565 for IPS/OLED Arduino/Pi Display
 ## Dependencies
 This project requires the following libraries:
 - **Python (for image conversion)**  
